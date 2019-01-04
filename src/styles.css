@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Charm|Indie+Flower|Major+Mono+Display");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: red;
+  padding-left: 30%;
+  display: flex;
+  justify-items: center;
+  align-content: space-between;
+}
+
+h1 {
+  font-family: "Charm", cursive;
+}
+
+h3 {
+  font-family: "Indie Flower", cursive;
+}
+
+p {
+  font-family: "Major Mono Display", monospace;
+}
